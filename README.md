@@ -1,19 +1,16 @@
 <h3 align="center"> A Blockchain Enthusiast  </h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🔭 I’m currently working on **Election/Voting Dapp**
+- Proficient in **Solidity and Hardhat.**
 
-- 🌱 Proficient in **Solidity and Hardhat.**
+- I’m looking to collaborate on **OpenSource Projects**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- How to reach me **ericstlouis2001@gmail.com**
 
-- 📫 How to reach me **ericstlouis2001@gmail.com**
 
-- ⚡ Fun fact **I Like Turtles.**
-
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
