@@ -1,4 +1,4 @@
-<h3 align="center"> A Blockchain Enthusiast  </h3>
+<h3 align="center"> 🥷 </h3>
 
 
 ## About Me
@@ -26,7 +26,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/eric-st-louis-370a641ab/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Shinobi_242"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/eric_st.louis/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
