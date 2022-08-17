@@ -4,7 +4,7 @@
 ## About Me
 - 🤔 Interested in **OpenSource Projects** & **A.I.**
 - 🏗️ help build [inveth](https://showcase.ethglobal.com/hackmoney2022/inveth-h58r8) which came 3rd for Babylon Finance — Best Use
-- 📚 focus on dapp development for the ethereum and cardano ecosystem
+- learning rust
 
 ## Languages and Tools:
 ### Blockchain Development (Ethereum decentralized applications)
