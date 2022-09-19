@@ -12,15 +12,20 @@
 - Solidity
 - HardHat
 - Ethers.js
+- Subgraphs
 
 ### Full Stack Development
 
 - React
+- Rust
 - Next.js
 - ChakraUI / Tailwind.css
 - PostgreSQL
+- GraphQl
 - Node.js
 - supabase
+- Rust
+
 <br/>
 
 ## Connect with me:
