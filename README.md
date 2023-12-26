@@ -2,7 +2,7 @@
 
 
 ## About Me
-- 🤔 Interested in **OpenSource Projects** & **A.I.**
+- 🤔 Building in **[Stas](https://www.fortellr.com***
 - 🏗️ help build [inveth](https://showcase.ethglobal.com/hackmoney2022/inveth-h58r8) which came 3rd for Babylon Finance — Best Use
 - learning rust
 
