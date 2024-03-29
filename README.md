@@ -5,7 +5,7 @@
 - 🤔 Building in **[Fortellr](https://www.fortellr.com)**
     - A web app for storytellers
 - 🏗️ help build [inveth](https://showcase.ethglobal.com/hackmoney2022/inveth-h58r8) which came 3rd for Babylon Finance — Best Use
-- learning rust
+- learning ruby on rails
 
 ## Languages and Tools:
 ### Blockchain Development (Ethereum decentralized applications)
