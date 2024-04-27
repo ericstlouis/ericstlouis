@@ -32,7 +32,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/Shinobi_242"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/eric_st.louis/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC6c4xTUYzVVr25Bd6fKN7Jg"><img src="https://icons8.com/icon/19318/youtube"/></a>
 
 </p>
